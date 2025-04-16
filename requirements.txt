@@ -1,0 +1,8 @@
+streamlit
+nltk
+transformers
+torch
+whisper
+moviepy
+yt-dlp
+imageio-ffmpeg
