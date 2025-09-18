@@ -1,13 +1,13 @@
-# 📝 Smart Notes Summarizer
+# Smart Notes Summarizer
 
 A Streamlit web app to **summarize notes quickly** using:
-- ✂️ Extractive summarization with **NLTK**
-- 🤖 Abstractive summarization with **BART (facebook/bart-base)**
-- 🎤 Speech-to-Text from audio files (Google Speech Recognition API)
+-  Extractive summarization with **NLTK**
+-  Abstractive summarization with **BART (facebook/bart-base)**
+-  Speech-to-Text from audio files (Google Speech Recognition API)
 
 ---
 
-## 🚀 Features
+## Features
 - Enter text and summarize it using **NLTK** or **BART**.
 - Upload audio (WAV format) and convert speech → text.
 - Summarize the transcribed audio automatically.
@@ -15,7 +15,7 @@ A Streamlit web app to **summarize notes quickly** using:
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
